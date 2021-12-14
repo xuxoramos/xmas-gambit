@@ -49,9 +49,9 @@ Xmas Game based on Destiny 2's Gambit mechanic of "my progress obstructs the oth
 2. Tomará el regalo y lo intentará abrir
 3. Mientras tanto, el siguiente jugador clockwise rolará 2d6 con las siguientes condiciones:
    - **Iguales:** el jugador que rola los dados es ahora quien debe usar los oven mitts y bufanda e intenta abrir el regalo, y el siguiente jugador clockwise debe aventar 2d6. Similar a una operación "shift right"
-   - **Perfect 6:** El jugador que roló el 2d6 y obtuvo este Perfect 6 tomará una carta con este blocker y lo pondrá **en la mesa contraria**, para que quienes esten usando los oven mitts para abrir el regalo **de la mesa contraria** deben usar solo 1 mano durante el resto de su turno. Si se rola otro **Perfect 6** durante el efecto de un anterior, éste último queda sin efecto.
+   - **12:** El jugador que roló el 2d6 y obtuvo este **12** tomará una carta con este blocker y lo pondrá **en la mesa contraria**, para que quienes esten usando los oven mitts para abrir el regalo **de la mesa contraria** deben usar solo 1 mano durante el resto de su turno. Si se rola otro **Perfect 6** durante el efecto de un anterior, éste último queda sin efecto.
       - Alternativamente, se puede "guardar" este modificador
-   - Perfect 2: El jugador que roló el 2d6 y obtuvo este Perfect 2 tomará una carta con este blocker y lo pondrá **en la mesa contraria**, para que quienes estén usando los oven mitts para abrir el regalo **de la mesa contraria** deben cubrir sus ojos con su cubrebocas durante el resto de su turno. Si se rola otro **Perfect 2** durante el efecto de un anterior, éste último queda sin efecto.
+   - **Perfect 2 (1/1)**: El jugador que roló el 2d6 y obtuvo este Perfect 2 tomará una carta con este blocker y lo pondrá **en la mesa contraria**, para que quienes estén usando los oven mitts para abrir el regalo **de la mesa contraria** deben cubrir sus ojos con su cubrebocas durante el resto de su turno. Si se rola otro **Perfect 2** durante el efecto de un anterior, éste último queda sin efecto.
       - Alternativamente, se puede "guardar" este modificador
 4. Invadir cuando se han "guardado" los 2 modificadores: si como grupo han decidido guardar los modificadores, al acumular ambos, se puede "invadir", como se describe a continuación:
    - Al invadir, uno de los jugadores de la mesa 1 se unirá al círculo de la mesa 2 y se incorporará a su juego entre el jugador que tira los dados y quien está intentando abrir el regalo (y viceversa cuando la mesa 2 invada la mesa 1). Esto es similar a la mecánica de "invasión" de Gambit.
@@ -62,6 +62,31 @@ Xmas Game based on Destiny 2's Gambit mechanic of "my progress obstructs the oth
 6. Gana el equipo que descubra el regalo al interior de la caja más interior.
 
 ## Algo (Illustrated)
+
+### 1. Setup
+
+![image](https://user-images.githubusercontent.com/1316464/146062908-14f0746c-b96f-4561-943a-4c7272903204.png)
+
+### 2. Start!
+
+![image](https://user-images.githubusercontent.com/1316464/146063873-7844bae0-fe90-4767-8bae-8e929143a7fb.png)
+
+### 3. Contínuo
+
+![image](https://user-images.githubusercontent.com/1316464/146063855-8148dc93-3ee9-4ff5-bbfc-5473056a0846.png)
+
+### 4. Iguales
+
+![image](https://user-images.githubusercontent.com/1316464/146064064-07d8b3c9-5b54-475c-b700-a9d0ff6fc1d5.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146064577-443af5b9-3f82-4edb-a7d2-de1e262a7db4.png)
+
+### 5. 12 (6/6)
+
+![image](https://user-images.githubusercontent.com/1316464/146065913-c40a3868-739c-404f-81b8-398ca01fb8f5.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146066814-820be12d-c8a1-4f5c-90a4-d47821199c9f.png)
+
 
 
 
