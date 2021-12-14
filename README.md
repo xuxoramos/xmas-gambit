@@ -87,11 +87,11 @@ Xmas Game based on Destiny 2's Gambit mechanic of "my progress obstructs the oth
 
 ![image](https://user-images.githubusercontent.com/1316464/146066814-820be12d-c8a1-4f5c-90a4-d47821199c9f.png)
 
-![image](https://user-images.githubusercontent.com/1316464/146077583-a6126987-fee1-42a1-8a92-917995800cad.png)
+![image](https://user-images.githubusercontent.com/1316464/146082046-2620a047-6dae-43a7-8b3e-783e674f7ce6.png)
 
-![image](https://user-images.githubusercontent.com/1316464/146077972-ce6586da-b61b-49b7-8c98-d26cd1654956.png)
+![image](https://user-images.githubusercontent.com/1316464/146082105-4a3ed95d-890b-463b-93ab-ff1273139a34.png)
 
-
+![image](https://user-images.githubusercontent.com/1316464/146082267-ef025a50-25f7-4397-ba90-fd376ed587dc.png)
 
 
 ## Músiquita pa' ambientar
