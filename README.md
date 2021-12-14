@@ -93,6 +93,49 @@ Xmas Game based on Destiny 2's Gambit mechanic of "my progress obstructs the oth
 
 ![image](https://user-images.githubusercontent.com/1316464/146082267-ef025a50-25f7-4397-ba90-fd376ed587dc.png)
 
+### 6. 2 (1/1)
+
+![image](https://user-images.githubusercontent.com/1316464/146082646-7f216470-7242-4518-a374-dd41c0cbcdcd.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146083527-0380db17-ebf5-436c-8df9-746d4a79d5b0.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146084120-e45354a2-ad1f-4367-9202-0aa7b950cb0f.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146084863-25d3df4e-a40c-495e-8aae-86333517a48a.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146085060-fc40c385-8684-45e8-9f02-c9688df0009e.png)
+
+
+### 7. Invasión
+
+![image](https://user-images.githubusercontent.com/1316464/146085240-5814112b-9178-42e0-9e54-7e8eb50df4af.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146085745-3f3ef542-9aa9-4c78-8701-3baccc3ab511.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146086016-8f9c4063-5b98-49a5-a899-8dddf50b45ec.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146089429-d2a1f608-ccfe-42b6-afae-8914f1c907c2.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146089978-cb05c9f2-b354-43e0-b1d1-0b2796af0519.png)
+
+
+![image](https://user-images.githubusercontent.com/1316464/146091710-19dbdfe0-5957-4e23-b33c-3d4e047c731b.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146092276-a4772ec8-00d1-49b6-ae69-f8a30781ba13.png)
+
+![image](https://user-images.githubusercontent.com/1316464/146092534-8cc7b4c5-4170-4dce-ace0-afe3a08e47ff.png)
+
+
+### 8. Cómo gano?
+
+
+
+
+
+
+
+
+
 
 ## Músiquita pa' ambientar
 
