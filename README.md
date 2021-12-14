@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/1316464/146098106-4947ff7b-e7da-4a0c-8
 13. 2 mesas grandes
 14. Silbato
 
-## 3. Game prep
+## 3. Game prep (realizado por Drifter)
 
 1. Envolver cada 1 de los regalos en 1 caja de 21x11x6
 2. Envolver esta caja en papel para regalo
