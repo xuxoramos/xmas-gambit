@@ -2,7 +2,9 @@
 
 Xmas Game based on Destiny 2's Gambit mechanic of "my progress obstructs the other team's progress" and on the Christmas Mitt Game:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/1e1xjBMYPPs/0.jpg)](http://www.youtube.com/watch?v=1e1xjBMYPPs "Oven Mitts Xmas Game")
+
+https://user-images.githubusercontent.com/1316464/146098106-4947ff7b-e7da-4a0c-81e8-e5eb45317475.mp4
+
 
 ## 1. Players
 
@@ -128,6 +130,8 @@ Xmas Game based on Destiny 2's Gambit mechanic of "my progress obstructs the oth
 
 ### 8. Cómo gano?
 
+
+![image](https://user-images.githubusercontent.com/1316464/146093436-f2314991-5fdc-4a96-be89-0cf2c3c6d954.png)
 
 
 
