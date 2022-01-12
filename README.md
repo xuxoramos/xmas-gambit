@@ -8,53 +8,66 @@ https://user-images.githubusercontent.com/1316464/146098106-4947ff7b-e7da-4a0c-8
 
 ## 1. Players
 
-2 grupos de 8 a 10 jugadores
+- 2 teams of 4 to 8 players each
+- 1 GM / Party host playing Uncle Drifter
 
-## 2. Materiales necesarios (so far)
+## 2. Necessary materials (so far)
 
-1. 2 regalos de 20x10x5cm
-2. 2 cajas de 21x11x6cm
-3. 2 cajas de 30x20x12cm
-4. 2 cajas de 50x30x20cm
-5. 2 rollos de papel de envoltura de regalos
-6. Cinta adhesiva
-8. 4d6
+1. 2 identical, small, Destiny-related gifts, like Funko or McFarlane figurines
+2. 2 gift boxes of 20x10x5cm
+3. 2 gift boxes of 21x11x6cm
+4. 2 gift boxes of 30x20x12cm
+5. 2 gift boxes of 50x30x20cm
+6. 2 rolls of gift-wrapping paper
+7. Loooots of scotch tape
+8. 4 4-sided dice
 9. 4 oven mitts
-10. N cubrebocas (donde N es el num de jugadores)
-11. N/2 pulseras rojas
-12. N/2 pulseras azules
-13. 2 mesas grandes
-14. Silbato
+10. N face masks (where N is the number of players)
+11. 2 large, square or round tables
+12. 2 hand held scotch-tape dispensers
+13. 1 print of each of the following cards
 
-## 3. Game prep (realizado por Drifter)
+1-hand card. Player opening the gift now uses 1 hand
 
-1. Envolver cada 1 de los regalos en 1 caja de 21x11x6
-2. Envolver esta caja en papel para regalo
-3. Envolver cada 1 de las cajas anteriores en las cajas de 30x20x12
-4. Envolver esta caja en papel para regalo
-5. Envolver cada 1 de las cajas anteriores en las cajas de 50x30x20
-6. Envolver esta caja en papel para regalo
-7. Formar 2 grupos de igual número de personas
-8. 1 grupo tendrá asignadas pulseras azules, otro grupo tendrá asignadas pulseras rojas
-9. Colocarse 1 grupo alrededor de 1 mesa
-10. Seleccionar un jugador inicial de cada grupo
-11. Colocar 1 de los regalos preparados en la sección **Game prep** en cada una de las mesas
-12. Colocar 2d6 en cada 1 de las mesas
-13. Colocar 2 oven mitts en cada 1 de las mesas
-14. Colocar 1 cubrebocas en cada jugador
-15. Sonar el silbato de inicio
+![image](https://user-images.githubusercontent.com/1316464/149075108-f0913bf5-51ac-4a9b-97a9-d15d9bc814c8.png)
+![image](https://user-images.githubusercontent.com/1316464/149075175-0aab030d-955b-42fc-9c8b-37bc5e9d44e6.png)
+
+Blind card. Player opening the gift must cover eyes with face mask
+
+![image](https://user-images.githubusercontent.com/1316464/149075142-0838b12b-a5fb-4b29-bf25-c2d46f2f0bdf.png)
+![image](https://user-images.githubusercontent.com/1316464/149075201-4b0a2bc6-3c37-4b7c-9190-93b8b8807b5d.png)
+
+
+## 3. Game prep (performed by GM or party host)
+
+1. Secure each gift in each of the 20x10x5cm boxes
+2. Wrap each box with gift-wrapping paper
+3. Secure each box inside the next 30x20x12cm boxes
+4. Wrap box with gift-wrapping paper
+5. Secure each box inside the 50x30x20cm boxes
+6. Wrap each box in gift-wrapping paper
+7. Form 2 teams of equal number of players. One will be read team, the other will be the blue team.
+9. Gather each team around each of the tables
+10. Select an initial player for each team
+   - This player will attempt to open the gift box...
+   - ...while the player to the left throws the 2 4-sided dice.
+12. Place each of the gift boxes in each of the tables
+13. Place 2 4-sided dice in each of the tables
+14. Place 2 oven mitts in each of the tables
+15. Place the blue cards on the blue team's table, and the red cards on the red team's table
+16. Place face masks on every player at each table
+17. Say "TRANSMAT FIRING" loudly to start the game
 
 
 ## Game algorithm
 
-1. Quien fue seleccionado como el jugador inicial en 3.9 debe ponerse los oven mitts y la bufanda de cada 1 de las mesas
-2. Tomará el regalo y lo intentará abrir
-3. Mientras tanto, el siguiente jugador clockwise rolará 2d6 con las siguientes condiciones:
-   - **Iguales:** el jugador que rola los dados es ahora quien debe usar los oven mitts y bufanda e intenta abrir el regalo, y el siguiente jugador clockwise debe aventar 2d6. Similar a una operación "shift right"
-   - **12:** El jugador que roló el 2d6 y obtuvo este **12** tomará una carta con este blocker y lo pondrá **en la mesa contraria**, para que quienes esten usando los oven mitts para abrir el regalo **de la mesa contraria** deben usar solo 1 mano durante el resto de su turno. Si se rola otro **Perfect 6** durante el efecto de un anterior, éste último queda sin efecto.
-      - Alternativamente, se puede "guardar" este modificador
-   - **Perfect 2 (1/1)**: El jugador que roló el 2d6 y obtuvo este Perfect 2 tomará una carta con este blocker y lo pondrá **en la mesa contraria**, para que quienes estén usando los oven mitts para abrir el regalo **de la mesa contraria** deben cubrir sus ojos con su cubrebocas durante el resto de su turno. Si se rola otro **Perfect 2** durante el efecto de un anterior, éste último queda sin efecto.
-      - Alternativamente, se puede "guardar" este modificador
+1. As described in 3.10, the player selected to be the first to attempt to break open the gift box will put on the oven mitts and try to pry it open.
+2. Meanwhile, the player to the left will throw the dice, observing the following results:
+   - **2 identical rolls:** the roles of the player who is attempting to open the box and the one that threw the dice shifts to the left, so that the player who threw the dice is now attempting to break open the box, while the player to the left is now throwing dice.
+   - **Roll a 12:** The GM will take a 1-hand blocker card of that player's table and slam it on the opposing team's table. The player of this opposing table who is attempting to open the box can now use only 1 hand for the remainder of the turn.
+      - Alternatively, the player who rolled the 12 can "save" this blocker for later.
+   - **Perfect 2 (1/1)**: The GM will take a blind blocker card of that player's table and slam it on the opposing team's table. The player of this opposing table who is attempting to open the box must now put the face mask over their eyes to impair vision for the remainder of the turn.
+      - Alternatively, the player who rolled the 12 can "save" this blocker for later.
 4. Invadir cuando se han "guardado" los 2 modificadores: si como grupo han decidido guardar los modificadores, al acumular ambos, se puede "invadir", como se describe a continuación:
    - Al invadir, uno de los jugadores de la mesa 1 se unirá al círculo de la mesa 2 y se incorporará a su juego entre el jugador que tira los dados y quien está intentando abrir el regalo (y viceversa cuando la mesa 2 invada la mesa 1). Esto es similar a la mecánica de "invasión" de Gambit.
    - El invasor toma el control del regalo y comienza a reempaquetarlo con ayuda de uno de estos: https://es.uline.mx/Product/Detail/H-464O/Hand-Held-Tape-Dispensers/Uline-Heavy-Duty-Tape-Dispenser-2-Orange?pricode=WB7059&gadtype=pla&id=H-464O&gclid=Cj0KCQiAnuGNBhCPARIsACbnLzr6_UNEnkg2ysQDjWa39iUnE7KjtrLBUbkObFLNkTg73RL3h66imwEaArcMEALw_wcB&gclsrc=aw.ds
