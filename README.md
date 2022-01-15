@@ -30,11 +30,13 @@ https://user-images.githubusercontent.com/1316464/146098106-4947ff7b-e7da-4a0c-8
 1-hand card. Player opening the gift now uses 1 hand
 
 ![image](https://user-images.githubusercontent.com/1316464/149075108-f0913bf5-51ac-4a9b-97a9-d15d9bc814c8.png)
+
 ![image](https://user-images.githubusercontent.com/1316464/149075175-0aab030d-955b-42fc-9c8b-37bc5e9d44e6.png)
 
 Blind card. Player opening the gift must cover eyes with face mask
 
 ![image](https://user-images.githubusercontent.com/1316464/149075142-0838b12b-a5fb-4b29-bf25-c2d46f2f0bdf.png)
+
 ![image](https://user-images.githubusercontent.com/1316464/149075201-4b0a2bc6-3c37-4b7c-9190-93b8b8807b5d.png)
 
 
@@ -68,13 +70,13 @@ Blind card. Player opening the gift must cover eyes with face mask
       - Alternatively, the player who rolled the 12 can "save" this blocker for later.
    - **Perfect 2 (1/1)**: The GM will take a blind blocker card of that player's table and slam it on the opposing team's table. The player of this opposing table who is attempting to open the box must now put the face mask over their eyes to impair vision for the remainder of the turn.
       - Alternatively, the player who rolled the 12 can "save" this blocker for later.
-4. Invadir cuando se han "guardado" los 2 modificadores: si como grupo han decidido guardar los modificadores, al acumular ambos, se puede "invadir", como se describe a continuación:
-   - Al invadir, uno de los jugadores de la mesa 1 se unirá al círculo de la mesa 2 y se incorporará a su juego entre el jugador que tira los dados y quien está intentando abrir el regalo (y viceversa cuando la mesa 2 invada la mesa 1). Esto es similar a la mecánica de "invasión" de Gambit.
-   - El invasor toma el control del regalo y comienza a reempaquetarlo con ayuda de uno de estos: https://es.uline.mx/Product/Detail/H-464O/Hand-Held-Tape-Dispensers/Uline-Heavy-Duty-Tape-Dispenser-2-Orange?pricode=WB7059&gadtype=pla&id=H-464O&gclid=Cj0KCQiAnuGNBhCPARIsACbnLzr6_UNEnkg2ysQDjWa39iUnE7KjtrLBUbkObFLNkTg73RL3h66imwEaArcMEALw_wcB&gclsrc=aw.ds
-   - Esta invasión dura hasta que quien está tirando los dados rola un 7 con 2d6
-   - Cuando se lanza un 7, el invasor regresa a su mesa original.
-   - La mesa que fue invadida puede reanudar su juego normal descrito en 3
-6. Gana el equipo que descubra el regalo al interior de la caja más interior.
+3. **Invasion**: when the 2 blocker cards have been saved, the team that saved them can invade. Invasion is as follows:
+   - The GM will yell _"YOU'RE BEING INVADED"_ and slam the 2 cards on the other team's table.
+   - The invading player will place themselves to the left of the player who is unwrapping the gift box, so that when their turn comes and the 2 identicals are rolled, the gift box will fall into the invading player's hands.
+   - The invader takes control of the gift box and starts rolling heavy duty scotch tape around it with one of these dispensers: https://es.uline.mx/Product/Detail/H-464O/Hand-Held-Tape-Dispensers/Uline-Heavy-Duty-Tape-Dispenser-2-Orange?pricode=WB7059&gadtype=pla&id=H-464O&gclid=Cj0KCQiAnuGNBhCPARIsACbnLzr6_UNEnkg2ysQDjWa39iUnE7KjtrLBUbkObFLNkTg73RL3h66imwEaArcMEALw_wcB&gclsrc=aw.ds
+   - The invasion lasts until 2 identicals are rolled, as per normal game rules. The invader returns to their original table.
+   - The invaded table returns to normal game described in 2.
+4. The team that manages to unwrap the gift inside all the boxes wins.
 
 ## Algo (Illustrated)
 
@@ -86,11 +88,11 @@ Blind card. Player opening the gift must cover eyes with face mask
 
 ![image](https://user-images.githubusercontent.com/1316464/146063873-7844bae0-fe90-4767-8bae-8e929143a7fb.png)
 
-### 3. Contínuo
+### 3. Continuous game
 
 ![image](https://user-images.githubusercontent.com/1316464/146063855-8148dc93-3ee9-4ff5-bbfc-5473056a0846.png)
 
-### 4. Iguales
+### 4. 2 identical rolls
 
 ![image](https://user-images.githubusercontent.com/1316464/146064064-07d8b3c9-5b54-475c-b700-a9d0ff6fc1d5.png)
 
@@ -121,7 +123,7 @@ Blind card. Player opening the gift must cover eyes with face mask
 ![image](https://user-images.githubusercontent.com/1316464/146085060-fc40c385-8684-45e8-9f02-c9688df0009e.png)
 
 
-### 7. Invasión
+### 7. Invasion
 
 ![image](https://user-images.githubusercontent.com/1316464/146085240-5814112b-9178-42e0-9e54-7e8eb50df4af.png)
 
@@ -141,7 +143,7 @@ Blind card. Player opening the gift must cover eyes with face mask
 ![image](https://user-images.githubusercontent.com/1316464/146092534-8cc7b4c5-4170-4dce-ace0-afe3a08e47ff.png)
 
 
-### 8. Cómo gano?
+### 8. How do I win?
 
 
 ![image](https://user-images.githubusercontent.com/1316464/146093436-f2314991-5fdc-4a96-be89-0cf2c3c6d954.png)
@@ -154,7 +156,7 @@ Blind card. Player opening the gift must cover eyes with face mask
 
 
 
-## Músiquita pa' ambientar
+## Music for ambience purposes
 
 1. https://www.youtube.com/watch?v=gtMmuyQ_xTE
 2. https://www.youtube.com/watch?v=yLm_iqzwbpU
